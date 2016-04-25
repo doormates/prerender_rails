@@ -29,7 +29,8 @@ module Rack
         'W3C_Validator',
         'redditbot',
         'Applebot',
-        'bitlybot'
+        'bitlybot',
+        'rogerbot'
       ]
 
       @extensions_to_ignore = [
