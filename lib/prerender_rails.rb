@@ -30,7 +30,8 @@ module Rack
         'redditbot',
         'Applebot',
         'bitlybot',
-        'rogerbot'
+        'rogerbot',
+        'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.94 Safari/537.36 (PubExchange)'
       ]
 
       @extensions_to_ignore = [
