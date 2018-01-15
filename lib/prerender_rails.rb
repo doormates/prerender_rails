@@ -35,7 +35,12 @@ module Rack
         'Mediapartners-Google',
         'Google Page Speed',
         'AdsBot-Google',
-        'Googlebot-News (Googlebot)'
+        'Googlebot-News (Googlebot)',
+        'SocialFlow/0.10',
+        'SocialFlow/2014',
+        'SocialFlow/2015',
+        'SocialFlow/2016',
+        'Net::Curl::Simple v0.13'
       ]
 
       @extensions_to_ignore = [
