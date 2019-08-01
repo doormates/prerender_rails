@@ -22,6 +22,7 @@ module Rack
         'showyoubot',
         'outbrain',
         'pinterest',
+        'pinterest/0',
         'developers.google.com/+/web/snippet',
         'www.google.com/webmasters/tools/richsnippets',
         'slackbot',
@@ -40,7 +41,13 @@ module Rack
         'SocialFlow/2014',
         'SocialFlow/2015',
         'SocialFlow/2016',
-        'Net::Curl::Simple v0.13'
+        'Net::Curl::Simple v0.13',
+        'Chrome-Lighthouse'
+        'WhatsApp',
+        'flipboard',
+        'tumblr',
+        'SkypeUriPreview',
+        'Discordbot'
       ]
 
       @extensions_to_ignore = [
