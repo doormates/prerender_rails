@@ -42,7 +42,7 @@ module Rack
         'SocialFlow/2015',
         'SocialFlow/2016',
         'Net::Curl::Simple v0.13',
-        'Chrome-Lighthouse'
+        'Chrome-Lighthouse',
         'WhatsApp',
         'flipboard',
         'tumblr',
